@@ -8,7 +8,7 @@ It demonstrates how AI concepts and web design can be combined to create a struc
 The website provides guidance on career paths in:
 - Embedded Systems
 - VLSI
-- 
+  
 ✨ Features
 - AI-Assisted Design: Layout and content optimized using AI tools.
 - ECE Career Roadmap: Clear pathways for students to explore Embedded Systems, Edge AI, and IoT.
@@ -25,7 +25,6 @@ Explore the project here:
 
 https://my-site-o940xrjg-iampavankumar94.wix-vibe-site.com/
 
-
 📈 Learning Outcomes
 - How AI achieves precision when trained with large datasets.
 - Applying AI concepts to real-world mini projects.
@@ -38,4 +37,4 @@ https://my-site-o940xrjg-iampavankumar94.wix-vibe-site.com/
 
 👨‍💻 Author
 Pavan Kumar Mirthipati  
-Aspiring Embedded Edge AI Engineer | ECE Stude
+Aspiring Embedded Edge AI Engineer | ECE Student
